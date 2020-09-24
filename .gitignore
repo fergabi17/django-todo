@@ -1,3 +1,5 @@
 run app.txt
-*.sqlite3
+db.sqlite3
 __pycache__/
+env.py
+*.sqlite3
